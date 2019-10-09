@@ -1,0 +1,6 @@
+
+            /PEN/det/setDetectorType 3
+            /PEN/gun/sourcePosition 15.0 mm
+            /PEN/det/setPosition 15.0 mm
+            /PEN/det/setDetName rod_15_55
+             /run/beamOn 100000

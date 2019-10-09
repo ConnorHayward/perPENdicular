@@ -1,0 +1,6 @@
+
+            /PEN/det/setDetectorType 2
+            /PEN/gun/sourcePosition 25.0 mm
+            /PEN/det/setPosition 25.0 mm
+            /PEN/det/setDetName rod_25_30
+             /run/beamOn 100000

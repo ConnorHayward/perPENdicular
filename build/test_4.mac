@@ -1,0 +1,5 @@
+/PEN/gun/sourcePosition 0.0 mm
+            /PEN/det/setSize 4
+            /PEN/det/setPosition 0.0 mm
+            /PEN/det/setDetName rod_0_80
+             /run/beamOn 1000000
